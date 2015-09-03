@@ -6,8 +6,8 @@ from email.mime.text import MIMEText
 
 # Variables
 template = "templates/hello_world.html"
-me = "matheus.cesario.santos@gmail.com"
-you = "mts.cesario@gmail.com"
+me = "admin@example.com"
+you = "receiver@example.com"
 
 # Open a plain text file for reading.  For this example, assume that
 # the text file contains only ASCII characters.
